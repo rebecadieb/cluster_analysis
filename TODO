@@ -1,0 +1,6 @@
+1. Rodando o arquivo "script_cluster.R" um caminho indicando onde os dados que serão agrupados estão deverá ser colocado como parâmetro assim como um caminho especificando onde estes dados com os grupos associados deverão ser salvos em CSV.
+
+
+Exemplo:
+
+Rscript script_cluster.R 'raw_data.csv' 'cluster_data.csv'
